@@ -1,0 +1,18 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/IvrSystem.Api/obj
+/IvrSystem.Api/bin
+/IvrSystem.Api/Properties/serviceDependencies.json
+/IvrSystem.Api/Properties/serviceDependencies.IvrSystemApi20230620083946 - Web Deploy.json.user
+/IvrSystem.Api/Properties/serviceDependencies.IvrSystemApi20230620083946 - Web Deploy.json
+/IvrSystem.Api/Properties/ServiceDependencies/IvrSystemApi20230620083946 - Web Deploy
+/IvrSystem.Api/Properties/PublishProfiles
+/.vs/IvrSystem
+/IvrSystem.Application/bin
+/IvrSystem.Application/obj
+/IvrSystem.Contracts/obj
+/IvrSystem.Contracts/bin
+/IvrSystem.Persistence/obj
+/IvrSystem.Persistence/bin
